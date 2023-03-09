@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shurt\\OneDrive\\Рабочий стол\\Курсы\\C\\practice\\c_hw1\\task7\\task7.csproj",
+      "projectUniqueName": "C:\\Users\\shurt\\OneDrive\\Рабочий стол\\Курсы\\C\\practice\\с_hw1v2\\task7\\task7.csproj",
       "projectName": "task7",
-      "projectPath": "C:\\Users\\shurt\\OneDrive\\Рабочий стол\\Курсы\\C\\practice\\c_hw1\\task7\\task7.csproj",
+      "projectPath": "C:\\Users\\shurt\\OneDrive\\Рабочий стол\\Курсы\\C\\practice\\с_hw1v2\\task7\\task7.csproj",
       "packagesPath": "C:\\Users\\shurt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shurt\\OneDrive\\Рабочий стол\\Курсы\\C\\practice\\c_hw1\\task7\\obj\\",
+      "outputPath": "C:\\Users\\shurt\\OneDrive\\Рабочий стол\\Курсы\\C\\practice\\с_hw1v2\\task7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shurt\\AppData\\Roaming\\NuGet\\NuGet.Config"

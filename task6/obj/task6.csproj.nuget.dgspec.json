@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shurt\\OneDrive\\Рабочий стол\\Курсы\\C\\practice\\c_hw1\\task6\\task6.csproj": {}
+    "C:\\Users\\shurt\\OneDrive\\Рабочий стол\\Курсы\\C\\practice\\с_hw1v2\\task6\\task6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shurt\\OneDrive\\Рабочий стол\\Курсы\\C\\practice\\c_hw1\\task6\\task6.csproj": {
+    "C:\\Users\\shurt\\OneDrive\\Рабочий стол\\Курсы\\C\\practice\\с_hw1v2\\task6\\task6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shurt\\OneDrive\\Рабочий стол\\Курсы\\C\\practice\\c_hw1\\task6\\task6.csproj",
+        "projectUniqueName": "C:\\Users\\shurt\\OneDrive\\Рабочий стол\\Курсы\\C\\practice\\с_hw1v2\\task6\\task6.csproj",
         "projectName": "task6",
-        "projectPath": "C:\\Users\\shurt\\OneDrive\\Рабочий стол\\Курсы\\C\\practice\\c_hw1\\task6\\task6.csproj",
+        "projectPath": "C:\\Users\\shurt\\OneDrive\\Рабочий стол\\Курсы\\C\\practice\\с_hw1v2\\task6\\task6.csproj",
         "packagesPath": "C:\\Users\\shurt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shurt\\OneDrive\\Рабочий стол\\Курсы\\C\\practice\\c_hw1\\task6\\obj\\",
+        "outputPath": "C:\\Users\\shurt\\OneDrive\\Рабочий стол\\Курсы\\C\\practice\\с_hw1v2\\task6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shurt\\AppData\\Roaming\\NuGet\\NuGet.Config"
